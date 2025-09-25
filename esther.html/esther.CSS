@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+    background-color: rgba(0, 18, 77, 0.534);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-style: italic;
+    margin-left: 38px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(255, 0, 0);
+    font-size: medium;
+    font-style: italic;
+    margin-left: 38px;
+}
+
+h3 {
+    color: black;
+    font-style: oblique;
+    font-weight: 200px;
+}
